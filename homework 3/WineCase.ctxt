@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=refNo1\ description1\ noOfBottles1\ price1
+comment0.target=WineCase(java.lang.String,\ java.lang.String,\ int,\ double)
+comment1.params=
+comment1.target=WineCase()
+comment2.params=
+comment2.target=java.lang.String\ getRefNo()
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment4.params=
+comment4.target=int\ getNoOfBottles()
+comment5.params=
+comment5.target=double\ getPrice()
+comment6.params=ref
+comment6.target=void\ changeRefNo(java.lang.String)
+comment7.params=des
+comment7.target=void\ changeDescription(java.lang.String)
+comment8.params=bottles
+comment8.target=void\ changeNoOfBottle(int)
+comment9.params=cost
+comment9.target=void\ changePrice(double)
+numComments=10

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=sitename1
+comment0.target=Website(java.lang.String)
+comment1.params=
+comment1.target=Website()
+comment10.params=browser\ wineCase
+comment10.target=void\ checkout(Browser,\ WineCase)
+comment11.params=wineCase
+comment11.target=void\ checkHitsDiscout(WineCase)
+comment2.params=browser
+comment2.target=void\ buyerLogin(Browser)
+comment3.params=browser
+comment3.target=void\ becomeBuyer(Browser)
+comment4.params=name1
+comment4.target=void\ changeName(java.lang.String)
+comment5.params=hits1
+comment5.target=void\ changeHits(int)
+comment6.params=sales
+comment6.target=void\ changeSalesTotal(int)
+comment7.params=
+comment7.target=java.lang.String\ getName()
+comment8.params=
+comment8.target=int\ getHits()
+comment9.params=
+comment9.target=int\ getSalesTotal()
+numComments=12
